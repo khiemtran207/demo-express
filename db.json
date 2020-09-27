@@ -1,0 +1,25 @@
+{
+  "list": [
+    {
+      "name": "việt",
+      "age": "22",
+      "address": "nam hải -tiền hải -thái bình",
+      "phonenumber": "01234556",
+      "id": "yY871KtF6"
+    },
+    {
+      "name": "kiên",
+      "age": "11",
+      "address": "nam hải -tiền hải -thái bình",
+      "phonenumber": "01234556",
+      "id": "GbhDNBsG2"
+    },
+    {
+      "name": "trần văn khiêm",
+      "age": "-3",
+      "address": "nam hải -tiền hải -thái bình",
+      "phonenumber": "01234556",
+      "id": "0Ry5sU-ZB"
+    }
+  ]
+}

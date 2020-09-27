@@ -1,0 +1,12 @@
+h1 List
+
+a(href="/user/create") new
+form(action="/user/search", method="GET")
+	input(type="text", name="q" )
+	button search
+ul
+	each lists in listabc
+		li
+			span= lists.name
+			span &nbsp;
+			a(href="/user/" + lists.id) view
